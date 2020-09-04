@@ -1,2 +1,2 @@
 # hello-world
-Just smth
+Love BTS, now I'm learning Python 2
